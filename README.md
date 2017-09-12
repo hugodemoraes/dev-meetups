@@ -8,6 +8,8 @@
 # install dependencies
 npm install
 
+# Update your Firebase credentials
+
 # serve with hot reload at localhost:8080
 npm run dev
 
